@@ -1,0 +1,8 @@
+<--Alt+W-->
+Fyll i vad ni vill1
+
+<--Alt+E-->
+Fyll i vad ni vill2
+
+<--Alt+R-->
+Fyll i vad ni vill3

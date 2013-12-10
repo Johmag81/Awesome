@@ -1,0 +1,20 @@
+<--Ctrl+Q-->
+LMV eller berörd kommun
+
+<--Ctrl+W-->
+Vid innehav av trygghetslarm eller hemarbetsplats och fastighetsägaren anser att kabelutsättning behövs, vänligen kontakta Geomatikk igen.
+
+<--Ctrl+E-->
+Ledningar i kartan kan vara i osäkert läge. Vid behov av kabelutsättning vänligen kontakta Geomatikk på telefonnummer 026-123500.
+
+<--CTRL+R-->
+Utsättare kommer att kontakta dig för att avtala en närmare tid för utsättning.
+
+<--Alt+S-->
+Ingen utsättning är bokad. Vi har försökt nå dig för handläggning av ditt ärende, ledningar i kartan är i osäkert läge. Vänligen kontakta Geomatikk 026-123500 innan markarbete i ärendet utförs.
+
+<--Alt+A-->
+Observera att luftledningar finns i området. 
+
+<--Alt+Q-->
+Översikt endast för orientering - ej till kund. 

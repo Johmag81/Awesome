@@ -1,0 +1,6 @@
+Du måste ladda hem New Tab Redirect! för att telefonsök ska fungera!
+https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna
+kopier sen in adressen till ledningskollens förstasida i inställningar: http://geokollen.se/inquiries?page=1&sort=h.Hastesak%20desc%2C%20h.Id&filter=sta%3D1%3A2%3B
+
+
+Använd awesome _0.3_utan_bokmärkesfält om du inte har bokmärksfält annars awesome _0.3_bokmärkesfält

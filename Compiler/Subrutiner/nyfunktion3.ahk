@@ -1,0 +1,2 @@
+^m::
+MsgBox Hej
